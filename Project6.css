@@ -1,0 +1,25 @@
+*{
+    font-size: 16px;
+    font-weight: 400;
+    font-style: Arial;, sans-serif;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.myclass{
+    color: turquoise;
+}
+
+#myid{
+    color: goldenrod;
+}
+
+p{
+    font-size: 146px;
+    font-weight: 700;
+    text-align: left;
+}
