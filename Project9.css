@@ -1,0 +1,27 @@
+body{
+    font-family: 'times new roman';
+}
+
+h1{
+    color:aliceblue;
+    font-size: 2em;
+}
+
+.topnav{
+    color: #8B949E;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: #b20404;
+    overflow: hidden;
+}
+
+.navbar a{
+    float: left;
+    display: block;
+    color: #8B949E;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
