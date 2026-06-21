@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button type="button" onclick="multiply(4)">Click Me!!</button>
+    <p id="Result"></p>
+
+    <script>
+        function multiply(a, b)
+        {
+        if(b=== undefined)
+        {
+        alert("The Value of 'b' is undefined")
+            b=5;
+        }
+        var result = a * b;
+        document.getElementById("multiply").innerHTML = result;
+        }
+    </script>
+</body>
+</html>
