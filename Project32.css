@@ -1,0 +1,11 @@
+body{
+    background-color: #ffa500;
+}
+
+label, strong, u{
+    color: #f60101;
+}
+
+a:hover{
+    color: #e6e6fa;
+}
